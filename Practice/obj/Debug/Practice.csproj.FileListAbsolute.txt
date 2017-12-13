@@ -1,0 +1,6 @@
+C:\Users\leeh\Source\Workspaces\Personal\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\leeh\Source\Workspaces\Personal\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\leeh\Source\Workspaces\Personal\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\leeh\Source\Workspaces\Personal\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\leeh\Source\Workspaces\Personal\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\leeh\Source\Workspaces\Personal\Practice\Practice\obj\Debug\Practice.pdb
